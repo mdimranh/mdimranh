@@ -16,7 +16,7 @@ Skills: PYTHON / DJANGO / JS / HTML / CSS / BOOTSTRAP
 <p align="left">
 <a href="https://twitter.com/mdimran750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdimran750" height="30" width="40" /></a>
 <a href="https://fb.com/mdimranh123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdimranh123" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/uc0tvabulfocok4pcxb9a-6q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uc0tvabulfocok4pcxb9a-6q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/IslamLifebd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uc0tvabulfocok4pcxb9a-6q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
