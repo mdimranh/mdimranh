@@ -44,8 +44,8 @@ Skills: PYTHON / DJANGO / JS / HTML / CSS / BOOTSTRAP
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdimranh)  
 
-![GitHub metrics](https://metrics.lecoq.io/mdimranh)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/mdimranh)   -->
 
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdimranh)   -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdimranh)  
 
 ![Profile views](https://gpvc.arturio.dev/mdimranh)  
