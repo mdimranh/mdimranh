@@ -3,7 +3,7 @@
 ### Hi there 👋, I am Md Imran Hossain
 #### Web Developer
 
-I am a Fullstack Web Developer who is passionate about making error.
+I’m a Professional full stack web designer and developer. I have more than 2 years’ experience in this sector.
 
 Skills: PYTHON / DJANGO / JS / HTML / CSS / BOOTSTRAP
 
